@@ -1,8 +1,11 @@
-# Several assets from the "gui" folder created by xSpinHDx are licensed under CC-BY-SA 4.0.
+## Several shaders were created by [AlphaLeoli](https://github.com/AlphaLeoli), they're licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Among those shaders all effect PNGs and `visible_invisibility.glsl` have been modified.
+
+## Several assets from the "gui" folder created by [xSpinHDx](https://modrinth.com/user/xSpinHDx) are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 - ## **Derivative works based on xSpinHDx’s assets must also be licensed under CC-BY-SA 4.0.**
+- ## **Derivative works based on AlphaLeoli’s assets must also be licensed under CC BY-NC-SA 4.0.**
 
-# All other software assets are licensed under ther MIT License, Copyright (c) 2025 Gowthr.
+# All other software assets are licensed under the MIT License, Copyright (c) 2025 Gowthr.
 
 ### Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License
 
